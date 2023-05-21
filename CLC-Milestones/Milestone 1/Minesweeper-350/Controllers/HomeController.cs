@@ -12,10 +12,11 @@ namespace Minesweeper_350.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
+        public static BoardModel gameBoard;
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
+            gameBoard = new BoardModel(1, 8);
         }
 
         public IActionResult Index()

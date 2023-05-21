@@ -6697,11 +6697,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rmcoo\\source\\repos\\Minesweeper-350\\Minesweeper-350.csproj",
+      "projectUniqueName": "C:\\Users\\rmcoo\\OneDrive\\Documents\\GitHub\\CST-350\\CLC-Milestones\\Milestone 1\\Minesweeper-350\\Minesweeper-350.csproj",
       "projectName": "Minesweeper-350",
-      "projectPath": "C:\\Users\\rmcoo\\source\\repos\\Minesweeper-350\\Minesweeper-350.csproj",
+      "projectPath": "C:\\Users\\rmcoo\\OneDrive\\Documents\\GitHub\\CST-350\\CLC-Milestones\\Milestone 1\\Minesweeper-350\\Minesweeper-350.csproj",
       "packagesPath": "C:\\Users\\rmcoo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rmcoo\\source\\repos\\Minesweeper-350\\obj\\",
+      "outputPath": "C:\\Users\\rmcoo\\OneDrive\\Documents\\GitHub\\CST-350\\CLC-Milestones\\Milestone 1\\Minesweeper-350\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rmcoo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6712,6 +6712,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -6753,7 +6754,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.31, 3.1.31]"
+            "version": "[3.1.32, 3.1.32]"
           }
         ],
         "frameworkReferences": {
@@ -6764,7 +6765,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

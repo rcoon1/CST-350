@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fCC6DQy6CkqQ1RyEdpxda8L2eiUzE1cfUqTVy5rBcuDCB3umGU6eU4QuAkSSYxTrlEueKPxfLh7Cse67uLV4qg==",
+  "dgSpecHash": "tH1KBPSSufOnBR7vq3rV6iWoqmGSJtQ25y7/KWNVhZkNI6FVSqICGnxBWsdy9J08SzHiBGu4YMq8Kg0/NfOaKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rmcoo\\source\\repos\\Minesweeper-350\\Minesweeper-350.csproj",
+  "projectFilePath": "C:\\Users\\rmcoo\\OneDrive\\Documents\\GitHub\\CST-350\\CLC-Milestones\\Milestone 1\\Minesweeper-350\\Minesweeper-350.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rmcoo\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\rmcoo\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
@@ -119,7 +119,7 @@
     "C:\\Users\\rmcoo\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\rmcoo\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\rmcoo\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\rmcoo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+    "C:\\Users\\rmcoo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],
   "logs": []
 }
