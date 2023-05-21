@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Minesweeper-350.props" />
+</Project>
