@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5L1MxtRFlFRm8DBRb6vhML79Yjz/LSvlz+u4W0YN7z1QhuUzBKKwQpe4Qa98B0fk9Jxe6C8pUyC69AFyo1IG0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rmcoo\\source\\repos\\LINQActors\\LINQActors.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rmcoo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\rmcoo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

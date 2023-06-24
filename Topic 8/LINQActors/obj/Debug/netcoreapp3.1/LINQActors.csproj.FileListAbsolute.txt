@@ -1,0 +1,16 @@
+C:\Users\rmcoo\source\repos\LINQActors\bin\Debug\netcoreapp3.1\LINQActors.exe
+C:\Users\rmcoo\source\repos\LINQActors\bin\Debug\netcoreapp3.1\LINQActors.deps.json
+C:\Users\rmcoo\source\repos\LINQActors\bin\Debug\netcoreapp3.1\LINQActors.runtimeconfig.json
+C:\Users\rmcoo\source\repos\LINQActors\bin\Debug\netcoreapp3.1\LINQActors.runtimeconfig.dev.json
+C:\Users\rmcoo\source\repos\LINQActors\bin\Debug\netcoreapp3.1\LINQActors.dll
+C:\Users\rmcoo\source\repos\LINQActors\bin\Debug\netcoreapp3.1\LINQActors.pdb
+C:\Users\rmcoo\source\repos\LINQActors\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rmcoo\source\repos\LINQActors\obj\Debug\netcoreapp3.1\LINQActors.csproj.AssemblyReference.cache
+C:\Users\rmcoo\source\repos\LINQActors\obj\Debug\netcoreapp3.1\LINQActors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmcoo\source\repos\LINQActors\obj\Debug\netcoreapp3.1\LINQActors.AssemblyInfoInputs.cache
+C:\Users\rmcoo\source\repos\LINQActors\obj\Debug\netcoreapp3.1\LINQActors.AssemblyInfo.cs
+C:\Users\rmcoo\source\repos\LINQActors\obj\Debug\netcoreapp3.1\LINQActors.csproj.CoreCompileInputs.cache
+C:\Users\rmcoo\source\repos\LINQActors\obj\Debug\netcoreapp3.1\LINQActors.csproj.CopyComplete
+C:\Users\rmcoo\source\repos\LINQActors\obj\Debug\netcoreapp3.1\LINQActors.dll
+C:\Users\rmcoo\source\repos\LINQActors\obj\Debug\netcoreapp3.1\LINQActors.pdb
+C:\Users\rmcoo\source\repos\LINQActors\obj\Debug\netcoreapp3.1\LINQActors.genruntimeconfig.cache

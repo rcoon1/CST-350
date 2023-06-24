@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ROxAcwxFY82ccraxdal3yEtzM4nwr5oxsQwGZv+0ad5bBbSAJ53LLJ1PSK0R4Dsy16/wyTeqrKYLdH4FYs4nSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rmcoo\\source\\repos\\LINQ-Demo\\LINQ-Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rmcoo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

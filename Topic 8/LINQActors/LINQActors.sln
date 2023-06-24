@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQActors", "LINQActors.csproj", "{C6435979-1418-4B95-BB00-BDBB307F4CFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6435979-1418-4B95-BB00-BDBB307F4CFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6435979-1418-4B95-BB00-BDBB307F4CFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6435979-1418-4B95-BB00-BDBB307F4CFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6435979-1418-4B95-BB00-BDBB307F4CFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB238FEC-C64A-47B7-8D6E-95578301615C}
+	EndGlobalSection
+EndGlobal
