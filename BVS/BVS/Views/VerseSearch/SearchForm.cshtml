@@ -1,0 +1,46 @@
+﻿@model BibleVerseSearch.Models.BibleVerse
+@using BibleVerseSearch.Services;
+@{
+    ViewData["Title"] = "Search Form";
+}
+
+<h1>Search For Bible Verse</h1>
+
+<h4>BibleVerse</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="SearchResults">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <label asp-for="Book">Book of Bible</label><br />
+            <select name="Book" id="Book">
+                @for (int i = 0; i < 67; i++)
+                {
+                        @:
+                    <option value="@((BibleVerseDAO.BookName)(i))">@((BibleVerseDAO.BookName)(i))</option>
+                }
+            </select>
+            <br /><br />
+            <div class="form-group">
+                <label asp-for="Chapter" class="control-label">Chapter: Leave as 0 for any</label>
+                <input asp-for="Chapter" class="form-control" />
+                <span asp-validation-for="Chapter" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Text" class="control-label">Search Term / Phrase</label>
+                <input asp-for="Text" class="form-control" />
+                <span asp-validation-for="Text" class="text-danger"></span>
+                @Html.ValidationMessageFor(model => model.Text, "", new { @class = "text-danger" })
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Search" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<div>
+    
+</div>
+
+
